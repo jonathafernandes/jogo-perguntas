@@ -7,25 +7,29 @@ body {
   background-color: black;
   color: white;
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Silkscreen', sans-serif;
+}
+
+img {
+  width: 130px;
 }
 
 #container {
-  margin-top: 100px;
+  margin-top: 80px;
+  margin-bottom: 30px;
   width: 80%;
   max-width: 400px;
   margin-inline: auto;
 }
 
 h1 {
-  margin-top: 40px;
   margin-bottom: 10px;
   opacity: 0.9;
 }
 
 p {
   margin-bottom: 40px;
-  opacity: 0.7;
+  color: darkgrey;
 }
 
 input,
@@ -34,7 +38,8 @@ button {
   width: 100%;
 
   padding: 20px;
-  font-size: 20px;
+  font-size: 16px;
+  font-family: 'Silkscreen', sans-serif;
   border-radius: 4px;
 }
 
@@ -44,7 +49,7 @@ input {
 
 button {
   border: none;
-  background-color: blueviolet;
+  background-color: rgb(86, 219, 53);
   color: white;
   transition: filter 0.2s;
 }

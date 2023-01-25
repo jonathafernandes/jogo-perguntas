@@ -38,7 +38,7 @@ function fazerPergunta() {
   const totalRespostas = respostas.length
   const numeroAleatorio = Math.floor(Math.random() * totalRespostas)
 
-  elementoResposta.innerHTML = pergunta + respostas[numeroAleatorio]
+  elementoResposta.innerHTML = respostas[numeroAleatorio]
 
   elementoResposta.style.opacity = 1
 
