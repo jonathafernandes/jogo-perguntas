@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="" src="./layout.png" width="30%">
+  <img alt="" src="./layout.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
