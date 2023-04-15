@@ -1,5 +1,5 @@
 <h1 align="center"> JOGO PERGUNTAS </h1>
-
+<p align="center">Versão 2.0</p>
 <br>
 
 <p align="center">
