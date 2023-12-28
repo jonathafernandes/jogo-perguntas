@@ -3,33 +3,20 @@
 <br>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p align="center">
   <img alt="" src="./layout.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+### 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Desenvolvido com:
 
 - HTML e CSS
 - JavaScript
-- Git e Github
 
-## 💻 Projeto
+### 💻 Projeto
 
 Jogo para responder perguntas.
 
-## 🖱️ Visite
+### 🖱️ Visite
 
 https://jonathafernandes.github.io/jogo-perguntas/
-
----
-👨‍💻 Desenvolvedor
-<br>
-- Jonatha Fernandes
